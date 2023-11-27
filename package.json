@@ -9,9 +9,11 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@nextui-org/react": "^2.2.9",
     "@remix-run/node": "^2",
     "@remix-run/react": "^2",
     "@remix-run/serve": "^2",
+    "framer-motion": "^10.16.5",
     "isbot": "^3.6.13",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
@@ -25,6 +27,7 @@
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "eslint": "^8.47.0",
+    "tailwindcss": "^3.3.5",
     "typescript": "^5.1.6"
   },
   "engines": {
